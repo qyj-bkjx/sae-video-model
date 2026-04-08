@@ -1,0 +1,26 @@
+*.swp
+*.pyc
+~$*.xlsx
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+
+# folders
+checkpoints/
+samples/
+data/
+tmp/
+demo/
+.vscode/
+temp/
+.dist_test/
+
+*.egg-info/
+tensorboard/
+wandb/
+output/
+# Large model checkpoints (too big for Git)
+ckpt/
+data/
+tmp/
+output/

@@ -1,0 +1,31 @@
+{
+  "5248dcd6-2d3c-4297-8c54-f068fe4cd288": {
+    "id": "5248dcd6-2d3c-4297-8c54-f068fe4cd288",
+    "status": "completed",
+    "progress": 100,
+    "created_at": 1770643297,
+    "submitted_at": "2026-02-09T13:21:37.970806",
+    "original_input": "生成一直橘猫欢快地玩耍蓝色毛线球的视频",
+    "server": "mova-360p",
+    "params": {
+      "size": "640x360",
+      "num_frames": 193,
+      "fps": 24,
+      "seed": 837395078,
+      "guidance_scale": 5.0,
+      "num_inference_steps": 50
+    },
+    "workflow_mode": "full",
+    "task_dir": "outputs/task_20260209_132101",
+    "user_input_path": "outputs/task_20260209_132101/user_input_20260209_132101.txt",
+    "first_frame_path": "outputs/task_20260209_132101/first_frame_20260209_132101.png",
+    "image_elements_path": "outputs/task_20260209_132101/image_elements_20260209_132101.json",
+    "image_generation_prompt": "A medium shot from eye-level angle, capturing a plump, vibrant orange tabby cat mid-play on a sunlit wooden floor. The cat is crouched low with front paws extended, tail flicking upward in excitement, ears perked forward, and bright green eyes locked intently on a bright cobalt-blue yarn ball just inches away—its fur slightly ruffled, one paw gently nudging the ball as it begins to roll. Soft natural light streams in from a large window off-frame left, casting gentle highlights on the cat’s glossy ginger fur and creating warm, subtle shadows that ground the scene. The background is softly blurred (shallow depth of field) to emphasize focus on the cat and yarn ball, revealing hints of a cozy, minimalist living room: a pale beige rug, a corner of a cream-colored sofa, and soft daylight-diffused curtains. The color palette is warm and inviting—golden-orange tones of the cat contrast vividly with the saturated, matte-finish blue of the yarn ball. The composition follows the rule of thirds, with the cat positioned slightly right of center and the yarn ball near the lower-left intersection point. Crisp, high-resolution, photorealistic style with gentle bokeh, evoking the cheerful, playful mood of a premium pet lifestyle video. No text, logos, or UI elements.",
+    "video_generation_prompt": "A photorealistic medium shot captures an orange tabby cat crouched low on light hardwood flooring, its green eyes locked forward and tail raised high as its left front paw extends toward a tightly wound spherical ball of vibrant saturated blue yarn. Sunlight streams in from a large multi-pane window to the cat’s left, casting soft shadows to its right and glinting across its amber-orange fur and the smooth wood grain—while the beige sofa, potted plant, and window frame melt into warm, shallow-focus bokeh behind.\n\nThe cat springs into motion: it bats the yarn with quick, alternating paws, sending the ball rolling slightly rightward across the floor; loose strands unfurl and catch the light as the sphere spins. It pivots on its hind legs, chases the yarn in tight arcs, then pounces—both front paws pinning the ball momentarily before it bounces free again. Its ears swivel forward, whiskers twitch, and tail flicks with energetic precision as it bats, nudges, and leaps around the yarn, keeping it within the lower right third of frame. The diagonal line formed by its extended paw and tail remains dynamic, shifting with each movement while the shallow depth of field holds the cat and yarn sharply in focus.\n\nThe audio shows bright, playful acoustic guitar plucks—light, staccato, and rhythmic—layered with gentle rustling SFX of yarn unspooling and soft thuds of paws landing on wood. A subtle, warm ambient tone underpins the scene, evoking sunlit calm. The music lifts gently in tempo during the chase sequences and eases as the cat pauses mid-play, then fades smoothly to silence.",
+    "video_path": "outputs/task_20260209_132101/5248dcd6-2d3c-4297-8c54-f068fe4cd288.mp4",
+    "download_url": "http://localhost:30000/v1/videos/5248dcd6-2d3c-4297-8c54-f068fe4cd288/download",
+    "completed_at": 1770643434,
+    "inference_time_s": 133.97452183114365,
+    "peak_memory_mb": 45611.4697265625
+  }
+}
